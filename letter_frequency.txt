@@ -1,0 +1,71 @@
+ENGLISH
+Order Of Frequency Of Single Letters
+E T A O I N S H R D L U
+Order Of Frequency Of Digraphs
+th er on an re he in ed nd ha at en es of or nt ea ti to it st io le is ou ar as de rt ve
+Order Of Frequency Of Trigraphs
+the and tha ent ion tio for nde has nce edt tis oft sth men
+Order Of Frequency Of Most Common Doubles
+ss ee tt ff ll mm oo
+Order Of Frequency Of Initial Letters
+T O A W B C D S F M R H I Y E G L N P U J K
+Order Of Frequency Of Final Letters
+E S T D N R Y F L O G H A K M P U W
+One-Letter Words
+a, I
+Most Frequent Two-Letter Words
+of, to, in, it, is, be, as, at, so, we, he, by, or, on, do, if, me, my, up, an, go, no, us, am
+Most Frequent Three-Letter Words
+the, and, for, are, but, not, you, all, any, can, had, her, was, one, our, out, day, get, has, him, his, how, man, new, now, old, see, two, way, who, boy, did, its, let, put, say, she, too, use
+Most Frequent Four-Letter Words
+that, with, have, this, will, your, from, they, know, want, been, good, much, some, time
+FRENCH
+Order Of Frequency Of Single Letters
+E N A S R I U T O L D C M P V F B G X H Q Y Z J K W
+Most Common Digraphs
+es en le de on ou nt re ne ed te em se er ar me an it et ie ti el ns ur
+Most Common Trigraphs
+ede les lle que ait eme ion eur ell sse est dan del men des tio ese ans ter ons qui ais ous ent
+Most Frequent Doubles
+ss ll ee nn tt ff cc rr mm pp
+One-Letter Words:
+a, y, o
+Most Common Two-Letter Words
+au, ce, ci, de, du, en, et, il, je, la, Ie, ma, me, ne, ni, on, ou, sa, se, si, un au
+GERMAN
+Order Of Frequency Of Single Letters:
+E N R I S T U D A H G L O C M B Z F W K V P J Q X Y
+Most Common Digraphs
+en er ch de ge ei ie in ne be el te un st di un ue se au re he it ri tz
+Most Common Trigraphs
+ein ich den der ten cht sch che die ung gen und nen des ben rch
+Most Frequent Doubles
+ee tt ll ss dd mm nn
+Common Two-Letter Words
+ab, am, an, da, er, es, ob, so, wo, im, in, um, zu, du, ja ab
+ITALIAN
+Order Of Frequency Of Single Letters
+E I A O R L N T S C D P U M G V H Z B F Q J K W X Y
+Most Common Digraphs
+er es on re de di ti si el en la al nt ra co ta to le li an in io ar or
+Most Common Trigraphs
+che ere zio del que ari ato eco edi ide esi idi ero par nte sta men
+Most Frequent Doubles
+ll ss tt ee pp nn bb gg cc
+One-Letter Words:
+e, a, i, o
+Most Common Two-Letter Words
+di, in, ha, ho
+SPANISH
+Order Of Frequency Of Single Letters
+E A O S R I N L D C T U P M Y Q G B H F V J Z K W X
+Most Common Digraphs
+es en el de la os ar ue ra re er as on st ad ai or ta co se ac ec ci ia
+Most Common Trigraphs
+que est ara ado aqu del cio nte osa ede per ist nei res sde
+Most Frequent Doubles
+ee ll rr aa ss cc dd nn
+One-Letter Words
+a, e, o, u, y
+Most Common Two-Letter Words:
+en, la, de, Io, el, se
